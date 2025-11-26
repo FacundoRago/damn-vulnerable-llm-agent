@@ -20,3 +20,6 @@ models:
 
   - model_name: hf-meta-llama
     model: "huggingface/meta-llama/Llama-3.1-8B-Instruct"
+
+  - model_name: groq-llama3-70b
+    model: "groq/llama-3.1-70b-versatile"
